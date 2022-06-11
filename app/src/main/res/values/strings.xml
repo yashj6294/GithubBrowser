@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Github Browser</string>
+    <string name="add_now">Add Now</string>
+    <string name="track_your_favorite_repo">Track your favorite repo</string>
+    <string name="add_repo">Add Repo</string>
+    <string name="owner_organization">Owner / Organization</string>
+    <string name="repo_name">Repo Name</string>
+    <string name="add">ADD</string>
+    <string name="share_repo">Share repo</string>
+    <string name="details">Details</string>
+    <string name="delete_repository">Delete repository</string>
+    <string name="back">Back</string>
+    <string name="issues">Issues</string>
+    <string name="branches">Branches</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
